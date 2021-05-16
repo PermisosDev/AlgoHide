@@ -6,4 +6,7 @@ The web application encrypts your message by replacing the traditional alphabet 
 
 In other words, this warps the letters of your text to letters that the algorithms cannot read.
 
-## Original Author [Sammwy](https://github.com/sammwyy)
+### Original Author [Sammwy](https://github.com/sammwyy)
+
+#### Live Version: https://permisosdev.github.io/AlgoHide/
+
