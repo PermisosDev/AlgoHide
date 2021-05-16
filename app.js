@@ -128,7 +128,7 @@ function updateEncodeDescription() {
       str = "Extreme encoder";
       break;
   }
-  $("#encode-range-description").html(` ${str} ( ${encodeLevel} );`);
+  $("#encode-range-description").html(` ${str} ( ${encodeLevel} )`);
 }
 
 window.addEventListener("load", () => {
